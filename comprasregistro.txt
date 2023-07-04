@@ -1,0 +1,432 @@
+Fecha y hora: 2023-07-03 02:51:49
+Nombre: rick
+total pagado: 52
+--------------------------
+Fecha y hora: 2023-07-03 02:52:31
+Nombre: rick
+total pagado: 52
+--------------------------
+Fecha y hora: 2023-07-03 02:52:33
+Nombre: 
+total pagado: 52
+--------------------------
+Fecha y hora: 2023-07-03 02:53:24
+Nombre: 
+total pagado: 65
+--------------------------
+Fecha y hora: 2023-07-03 02:53:24
+Nombre: rick
+total pagado: 65
+--------------------------
+Fecha y hora: 2023-07-03 02:53:26
+Nombre: 
+total pagado: 65
+--------------------------
+Fecha y hora: 2023-07-03 02:54:16
+Nombre: 
+total pagado: 65
+--------------------------
+Fecha y hora: 2023-07-03 02:54:17
+Nombre: 
+total pagado: 65
+--------------------------
+Fecha y hora: 2023-07-03 02:54:17
+Nombre: 
+total pagado: 65
+--------------------------
+Fecha y hora: 2023-07-03 02:54:19
+Nombre: 
+total pagado: 65
+--------------------------
+Fecha y hora: 2023-07-03 02:54:21
+Nombre: 
+total pagado: 65
+--------------------------
+Fecha y hora: 2023-07-03 02:55:30
+Nombre: Array
+total pagado: 65
+--------------------------
+Fecha y hora: 2023-07-03 02:58:17
+Nombre: Array
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 02:58:17
+Nombre: Array
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 02:58:28
+Nombre: Array
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 02:59:50
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 02:59:53
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 02:59:54
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 02:59:55
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 02:59:55
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:01:02
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:01:04
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:01:04
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:01:05
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:03:28
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:03:34
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:03:35
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:05:55
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:05:56
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:05:57
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:05:57
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:05:58
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:05:58
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:05:58
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:06:39
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:07:19
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:07:19
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:07:28
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:11:09
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:12:11
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:12:14
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:12:15
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:12:15
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:12:16
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:12:16
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:13:12
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:13:13
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:13:17
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:13:17
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:13:21
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:13:24
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:13:25
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:13:43
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:13:43
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:13:46
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:14:22
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:14:22
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:14:23
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:14:23
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:14:23
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 03:14:24
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:06:34
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:06:38
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:08:58
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:08:59
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:09:00
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:09:04
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:09:04
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:17:34
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:17:34
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:19:33
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:19:33
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:25:48
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:28:36
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:28:41
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:39:04
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:39:23
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:39:23
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:39:54
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:39:54
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:40:19
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:40:36
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:42:59
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:45:44
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:49:21
+Nombre: 
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 04:49:21
+Nombre: rick
+total pagado: 78
+--------------------------
+Fecha y hora: 2023-07-03 05:20:16
+Nombre: 
+total pagado: 4
+--------------------------
+Fecha y hora: 2023-07-03 05:20:16
+Nombre: rick
+total pagado: 4
+--------------------------
+Fecha y hora: 2023-07-03 05:23:13
+Nombre: rick
+total pagado: 4
+--------------------------
+Fecha y hora: 2023-07-03 05:23:23
+Nombre: rick
+total pagado: 4
+--------------------------
+Fecha y hora: 2023-07-03 05:26:21
+Nombre: rick
+total pagado: 4
+--------------------------
+Fecha y hora: 2023-07-03 05:28:45
+Nombre: rick
+total pagado: 4
+--------------------------
+Fecha y hora: 2023-07-03 05:30:07
+Nombre: rick
+total pagado: 4
+--------------------------
+Fecha y hora: 2023-07-03 05:31:48
+Nombre: rick
+total pagado: 4
+--------------------------
+Fecha y hora: 2023-07-03 05:32:36
+Nombre: rick
+total pagado: 4
+--------------------------
+Fecha y hora: 2023-07-03 22:17:33
+Nombre: rick
+total pagado: 52
+--------------------------
+Fecha y hora: 2023-07-03 22:18:12
+Nombre: rick
+total pagado: 52
+--------------------------
+Fecha y hora: 2023-07-03 22:21:42
+Nombre: rick
+total pagado: 52
+--------------------------
+Fecha y hora: 2023-07-03 22:23:16
+Nombre: rick
+total pagado: 52
+--------------------------
+Fecha y hora: 2023-07-03 22:35:38
+Nombre: rick
+total pagado: 100
+--------------------------
+Fecha y hora: 2023-07-03 22:49:44
+Nombre: rick
+total pagado: 1
+--------------------------
+Fecha y hora: 2023-07-03 23:46:12
+Nombre: rick
+total pagado: 12
+--------------------------
+Fecha y hora: 2023-07-04 03:20:40
+Nombre: rick
+total pagado: 2
+--------------------------
+Fecha y hora: 2023-07-04 04:31:38
+Nombre: rick
+total pagado: 2
+--------------------------
+Fecha y hora: 2023-07-04 04:31:47
+Nombre: rick
+total pagado: 2
+--------------------------
+Fecha y hora: 2023-07-04 08:02:42
+Nombre: rick
+total pagado: 12
+--------------------------
+Fecha y hora: 2023-07-04 08:09:53
+Nombre: rick
+total pagado: 26
+--------------------------
+Fecha y hora: 2023-07-04 16:09:00
+Nombre: rick
+total pagado: 52
+--------------------------

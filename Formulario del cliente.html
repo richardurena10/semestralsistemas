@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="estilos.css"type="text/css"> 
+  <title>Formulario del cliente</title>
+</head>
+<body>
+<ul class="menu">
+        <li><a href="index.html"><strong>INICIO</strong></a></li>
+        <li><a href="Formulario del cliente.html"><strong>DATOS DEL CLIENTE</strong></a></li>
+        <li><a href="Acerca de mi tienda de la ferreteria.html"><strong>ACERCA DE MÍ</strong></a></li>
+        <li><a href="productos.php"><strong>CATALOGO</strong></a></li>
+        
+      </ul>
+  <div class="container">
+    <div class="form__top">
+      <h2>Formulario <span>cliente</span></h2>
+    </div>    
+    <form class="form__reg" action="" method="POST">
+      <input class="input" type="text" placeholder="&#128100;  Nombre" required autofocus>
+            <input class="input" type="text" placeholder="&#128100; Apellido" required autofocus>
+            <input class="input" type="email" placeholder="&#9993;  Email" required>
+            <input class="input" type="text" placeholder="&#128222;  Telefono" required>
+            <input class="input" type="text" placeholder="&#8962;  Dirección" required>
+            <div class="btn__form">
+              <input class="btn__submit" type="submit" value="REGISTRAR">
+              <input class="btn__reset" type="reset" value="LIMPIAR"> 
+            </div>
+    </form>
+  </div>
+  <style>
+    html {
+  font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+body 
+
+.container {
+  max-width: 450px;
+  height: auto;
+  background-color: #EFEFEF;
+  margin: 5% auto;
+  padding-bottom: 1rem;
+
+}
+
+.form__top {
+  width: 100%;
+  text-align: center;
+  padding: 2rem 0 1rem;
+  border-top: solid .4rem #F39B53;
+  margin-bottom: 1rem;
+}
+
+.form__top h2 {
+  font-weight: bold;
+  color: #CAC8C8;
+  font-size: 18px;
+}
+
+h2 span {
+  color: #F39B53;
+}
+
+.form__reg {
+  padding: 0 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.btn__form {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1rem;
+}
+
+.input, .btn__submit, .btn__reset{
+  background-color: #EFEFEF;
+  padding: .5rem;
+  margin: .5rem 0;
+  border: none;
+  border-bottom: solid #C8C8C8 .2rem;
+  transition: all .5s;
+}
+
+.input:focus {
+  border-bottom: solid #F39B53 .2rem;
+}
+
+.btn__submit, .btn__reset {
+  width: 40%;
+  border-bottom: none;
+  background-color: #31B1E5;
+  color: white;
+}
+
+.btn__reset {
+  background-color: #EDA135;
+}
+
+.btn__submit:hover {
+  background-color: #4C9ED9;
+}
+
+.btn__reset:hover{
+  background-color: #FA9535;
+} 
+.menu{
+  list-style: none;
+  padding: 0;
+  background: #f7bd56;
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.menu li a{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.menu li{
+  display: inline-block;
+  text-align: center;
+}
+
+.menu li a:hover{
+  background: #ef8354;
+}
+  </style>
+</body>
+</html>
